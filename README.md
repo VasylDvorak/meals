@@ -1,11 +1,12 @@
-# meals
 
-Flatter project MEALS. 
+# Flatter project MEALS. 
 
-In the project the technologies were used:
-Providers (flutter_riverpod), Animations (explicit, implicit, Hero), grid widget, Bootom navigation bar, Screen navigation, App bar item, Navigation Drawer.
+# The user can learn the different receipt by categories:
 
-The user can learn the different receipt by categories:
+# In the project the technologies were used:
+# Providers (flutter_riverpod), Animations (explicit, implicit, Hero), grid widget, Bootom navigation bar, Screen navigation, App bar item, Navigation Drawer.
+
+
 
 
 
